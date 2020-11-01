@@ -7,5 +7,5 @@ Responsive Ecommerce Website
 
 <br>
 
-<img src="https://github.com/kimjihun-dev/jara/blob/master/jara_app.png" width="100%">
+<img src="https://github.com/kimjihun-dev/jara/blob/master/jara_app.png" width="70%">
  
